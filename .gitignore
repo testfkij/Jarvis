@@ -6,3 +6,9 @@ backend/.venv/
 backend/__pycache__/
 frontend/node_modules/
 frontend/dist/
+backend/providers.json
+backend/history.json
+providers.json
+history.json
+apk/app/build/
+apk/.gradle/

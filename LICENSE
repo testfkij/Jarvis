@@ -1,22 +1,38 @@
-JARVIS PROJECT — CUSTOM LICENSE
+JARVIS PROJECT — PERSONAL USE & NO-REDISTRIBUTION LICENSE
+Copyright (c) 2026 Jarvis Project contributors. All rights reserved.
 
-Copyright Notice:
-This software is provided under the terms below. No person or organization is granted permission to claim ownership or copyright over the original Jarvis Project source code.
+1. Permission to use
+You may download and run an unmodified copy of Jarvis for personal, educational,
+research, or internal use. This permission is a limited license, not a transfer of
+copyright or ownership.
 
-Permissions:
-- Free to use.
-- Free to view and study.
-- Free to run for personal or internal use.
-- You may modify the software for your own use.
+2. No copying, redistribution, resale, or modification
+You may not copy, mirror, publish, redistribute, sublicense, sell, rent, lease,
+resell, or provide this software or substantial portions of its source code as a
+separate product or service. You may not modify, fork, adapt, translate, or create
+derivative works from the Jarvis source code without prior written permission.
 
-Restrictions:
-- You may not sell this software, modified or unmodified.
-- You may not commercially redistribute this software.
-- You may not claim the original Jarvis Project code as your own.
-- You may not remove or replace this license from copies or modified versions.
-- You may not use the Jarvis Project name, branding, or identity to falsely represent an official version.
+3. No ownership claim
+You may not claim the Jarvis source code, branding, or original work as your own,
+remove this license, or imply that an unofficial build is an official Jarvis release.
+No copyright ownership is granted to you by this license.
 
-Disclaimer:
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHORS AND CONTRIBUTORS ARE NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+4. Source visibility
+The repository may be publicly accessible, but public visibility does not grant a
+license to copy, modify, fork, redistribute, or reuse the source code. This license
+cannot and does not restrict the technical ability to view publicly accessible source.
 
-This is a custom license and is not an OSI-approved open-source license.
+5. Trademarks
+The Jarvis name, logo, and branding may not be used to misrepresent modified or
+unofficial software as an official project.
+
+6. Third-party software
+Third-party dependencies remain under their own licenses. This license applies only
+to original Jarvis Project material.
+
+7. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS AND CONTRIBUTORS ARE NOT LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+This is a custom, source-available license. It is not an OSI-approved open-source license.
